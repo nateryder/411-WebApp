@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameWebApp", "GameWebApp\GameWebApp.csproj", "{9778D1F9-A75E-4B3A-9DC6-33A63D055D20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameWebApp.Client", "GameWebApp.Client\GameWebApp.Client.csproj", "{A11522BF-E0FC-41AF-AD10-FB43F7DCB532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9778D1F9-A75E-4B3A-9DC6-33A63D055D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9778D1F9-A75E-4B3A-9DC6-33A63D055D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9778D1F9-A75E-4B3A-9DC6-33A63D055D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9778D1F9-A75E-4B3A-9DC6-33A63D055D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11522BF-E0FC-41AF-AD10-FB43F7DCB532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11522BF-E0FC-41AF-AD10-FB43F7DCB532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11522BF-E0FC-41AF-AD10-FB43F7DCB532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11522BF-E0FC-41AF-AD10-FB43F7DCB532}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5FD36A5-8DF4-49A2-9315-44C570692D45}
+	EndGlobalSection
+EndGlobal
