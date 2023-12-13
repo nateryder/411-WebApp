@@ -153,3 +153,4 @@ C:\Users\lauri\source\repos\411-WebApp\GameWebApp\GameWebApp\obj\Debug\net8.0\re
 C:\Users\lauri\source\repos\411-WebApp\GameWebApp\GameWebApp\obj\Debug\net8.0\GameWebApp.pdb
 C:\Users\lauri\source\repos\411-WebApp\GameWebApp\GameWebApp\obj\Debug\net8.0\GameWebApp.genruntimeconfig.cache
 C:\Users\lauri\source\repos\411-WebApp\GameWebApp\GameWebApp\obj\Debug\net8.0\ref\GameWebApp.dll
+C:\Users\lauri\source\repos\411-WebApp\GameWebApp\GameWebApp\obj\Debug\net8.0\GameWebApp.sourcelink.json

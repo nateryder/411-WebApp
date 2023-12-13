@@ -13,9 +13,9 @@ using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-GameWebApp-dfed67cd-791c-40c0-b9d9-c27798c536c4")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameWebApp")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2cffd5d7515f5fdba2f8ca24bbf524545dba2f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
